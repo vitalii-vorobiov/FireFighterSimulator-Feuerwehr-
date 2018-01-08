@@ -13,7 +13,7 @@ The main idea behind Feuerwehr is to build a simple, fun to play VR game. Contra
 • Download and run feuerwehr.exe
 
 # Used technologies
-<h1>Languages:</h1> C#;<br>
-Game Engine: Unity;<br>
-Modelling and Animation: 3dsMax, Cinema4D, Blender;<br>
-Graphic: Photoshop, Illustrator;<br>
+__Languages:__ C#;<br>
+__Game Engine:__ Unity;<br>
+__Modelling and Animation:__ 3dsMax, Cinema4D, Blender;<br>
+__Graphic:__ Photoshop, Illustrator;<br>
