@@ -11,3 +11,9 @@ The main idea behind Feuerwehr is to build a simple, fun to play VR game. Contra
 • Install your <a href="https://www.vive.com/eu/setup/">HTC VIVE</a><br>
 • Install <a href="https://steamcommunity.com/steamvr">SteamVR</a><br>
 • Download and run feuerwehr.exe
+
+# Used technologies
+Languages: C#;<br>
+Game Engine: Unity;<br>
+Modelling and Animation: 3dsMax, Cinema4D, Blender;<br>
+Graphic: Photoshop, Illustrator;<br>
