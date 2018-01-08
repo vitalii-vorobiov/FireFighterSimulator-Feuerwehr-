@@ -4,6 +4,16 @@
 # Description
 The main idea behind Feuerwehr is to build a simple, fun to play VR game. Contrary to the competitors (there are very few), there is no need to focus on realism, which brings many other problems. With some genre exceptions, VR is not a platform for hardcore competitive games, and that’s why we’re pursuing to make the game relaxing and comfortable.
 
+ - __Fire fighting!__
+Use different devices to navigate on the level to complete various missions and put out the fire.
+
+ - __Destroyable environments__
+It’s not always easy to get to some place in a burning building. You’ll need to use your axe to break your way.
+
+ - __Progress and customization__
+Every completed mission and additional task give certain currency rewards, which can later be used to unlock new vehicles, tools, and even levels.
+
+
 # Gameplay Screenshots
 
 
