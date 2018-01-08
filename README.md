@@ -8,6 +8,6 @@ The main idea behind Feuerwehr is to build a simple, fun to play VR game. Contra
 
 
 # How to install
-• Install your <a href="https://www.vive.com/eu/setup/">HTC VIVE</a>
-• Install <a href="https://steamcommunity.com/steamvr">SteamVR</a>
+• Install your <a href="https://www.vive.com/eu/setup/">HTC VIVE</a><br>
+• Install <a href="https://steamcommunity.com/steamvr">SteamVR</a><br>
 • Download and run feuerwehr.exe
